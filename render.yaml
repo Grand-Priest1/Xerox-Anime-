@@ -1,5 +1,4 @@
 services: render
-  # A Docker web service
   - type: web
     name: PiroAutoFilterBot
     env: python
