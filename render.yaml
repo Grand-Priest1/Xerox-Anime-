@@ -1,5 +1,5 @@
 services: render
-  - type: web
+    type: web
     name: PiroAutoFilterBot
     env: python
     startCommand: python3 bot.py
